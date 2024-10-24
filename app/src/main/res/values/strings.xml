@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compose Food Recipes</string>
+    <string name="msg_try_later">Lütfen daha sonra tekrar deneyin.</string>
+</resources>
