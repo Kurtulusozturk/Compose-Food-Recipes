@@ -21,10 +21,10 @@ Features:
 This project demonstrates a practical application of modern Android technologies to create a user-friendly and feature-rich food recipe app. It serves as a valuable resource for both Android developers and food enthusiasts alike.
 ## Screenshots
 
-![Screenshot_20241024_144223](https://github.com/user-attachments/assets/cc79b5b8-6a28-4624-bc85-57fd4a47bc27)
+![Screenshot_20241024_144223](https://github.com/user-attachments/assets/cc79b5b8-6a28-4624-bc85-57fd4a47bc27) ![Screenshot_20241024_144322](https://github.com/user-attachments/assets/a7670266-d3c7-4609-92a5-ff0f09dcddd1) ![Screenshot_20241024_144256](https://github.com/user-attachments/assets/9e1685db-4e91-4a10-b22a-65c13d5cf598) ![Screenshot_20241024_144309](https://github.com/user-attachments/assets/015dfe24-379b-4eda-9fdb-e0e8c5a4def4)
 
-![Screenshot_20241024_144322](https://github.com/user-attachments/assets/a7670266-d3c7-4609-92a5-ff0f09dcddd1)
 
-![Screenshot_20241024_144256](https://github.com/user-attachments/assets/9e1685db-4e91-4a10-b22a-65c13d5cf598)
 
-![Screenshot_20241024_144309](https://github.com/user-attachments/assets/015dfe24-379b-4eda-9fdb-e0e8c5a4def4)
+
+
+
